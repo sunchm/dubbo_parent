@@ -6,7 +6,6 @@
     <groupId>suncm</groupId>
     <artifactId>general-api</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
     <modelVersion>4.0.0</modelVersion>
 
     <name>general-api</name>
