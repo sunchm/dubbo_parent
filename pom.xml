@@ -11,6 +11,5 @@
     <modules>
         <module>general-api</module>
         <module>general-service</module>
-	<module>gateway-controller</module>
     </modules>
 </project>
