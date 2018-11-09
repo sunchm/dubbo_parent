@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/concurrent-service/concurrent-service.iml" filepath="$PROJECT_DIR$/concurrent-service/concurrent-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/gateway-controller/gateway-controller.iml" filepath="$PROJECT_DIR$/gateway-controller/gateway-controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/general-api/general-api.iml" filepath="$PROJECT_DIR$/general-api/general-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/general-service/general-service.iml" filepath="$PROJECT_DIR$/general-service/general-service.iml" />
