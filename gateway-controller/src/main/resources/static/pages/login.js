@@ -20,6 +20,6 @@ function send(serviceType, data){
 }
 function login(){
     send("login", {
-        phone: "18302483421"
+        phone: "17642060482"
     });
 }
