@@ -14,7 +14,7 @@ public class LoginController extends CommandHandler{
 
     private static final Logger logger = LoggerFactory.getLogger("LoginController");
 
-    @Reference(version = "1.0.0")
+    @Reference(version = "1.0.0",timeout = 3000)
     LoginService loginService;
 
     @Override
